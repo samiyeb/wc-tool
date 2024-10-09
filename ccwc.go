@@ -86,3 +86,5 @@ func main() {
 		fmt.Printf("%d %d %d %d %s\n", c-1, l-1, w, m-1, os.Args[1])
 	}
 }
+
+// Sam Bakri
