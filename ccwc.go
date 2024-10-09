@@ -12,7 +12,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Silly goose, I need parameters!")
+		fmt.Println("Parameters are needed")
 	}
 	length := 0
 	fileName := new(string)
